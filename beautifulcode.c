@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	printf("This code is such a beauty :)");
+	printf("This code is such a beauty :)\n");
 
 return (0);
 }
